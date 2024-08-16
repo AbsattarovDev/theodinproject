@@ -1,19 +1,19 @@
-## Recipes project
+# Recipes project
 
 About project: https://www.theodinproject.com/lessons/foundations-recipes
 Live preview:
 
 Recipes and Images: https://www.allrecipes.com/
 
-# Caprese Stuffed Avocado
+### Caprese Stuffed Avocado
 
 https://www.allrecipes.com/caprese-stuffed-avocado-recipe-8610762
 
-# One Pan Spicy Soy Noodles with Chicken
+### One Pan Spicy Soy Noodles with Chicken
 
 https://www.allrecipes.com/one-pan-spicy-soy-noodles-with-chicken-recipe-8693474
 
-# The Ultimate Pool Sandwich
+### The Ultimate Pool Sandwich
 
 https://www.allrecipes.com/ultimate-pool-sandwich-recipe-8653433
 
